@@ -1,2 +1,2 @@
-# customer_segmentation_hierachical_clustering
+# customer segmentation hierachical clustering
 Segment customers into different groups based on their shopping trends.
